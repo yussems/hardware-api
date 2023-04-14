@@ -1,0 +1,5618 @@
+[
+    {
+        "name": "Core i5-13600K",
+        "rating": "100th"
+    },
+    {
+        "name": "Core i5-12400F",
+        "rating": "100th"
+    },
+    {
+        "name": "Core i5-12600K",
+        "rating": "100th"
+    },
+    {
+        "name": "Core i3-12100F",
+        "rating": "100th"
+    },
+    {
+        "name": "Core i7-13700K",
+        "rating": "100th"
+    },
+    {
+        "name": "Core i9-13900K",
+        "rating": "100th"
+    },
+    {
+        "name": "Core i7-9700K",
+        "rating": "100th"
+    },
+    {
+        "name": "Ryzen 5 5600X",
+        "rating": "100th"
+    },
+    {
+        "name": "Ryzen 5 3600",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i5-13600KF",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i7-11700K",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i5-12400",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i5-11600K",
+        "rating": "99th"
+    },
+    {
+        "name": "Ryzen 7 3700X",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i3-10100",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i5-10400F",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i7-10700K",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i5-11400",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i3-10100F",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i3-12100",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i5-11400F",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i7-12700K",
+        "rating": "99th"
+    },
+    {
+        "name": "Core i5-13400F",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i5-9600K",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i5-10600K",
+        "rating": "98th"
+    },
+    {
+        "name": "Ryzen 7 5800X",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i5-10600KF",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i7-4790K",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i5-9400F",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i9-9900K",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i3-9100F",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i5-10400",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i3-13100F",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i7-7700K",
+        "rating": "98th"
+    },
+    {
+        "name": "Ryzen 5 2600X",
+        "rating": "98th"
+    },
+    {
+        "name": "Core i5-13500",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i9-12900K",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i5-9600KF",
+        "rating": "97th"
+    },
+    {
+        "name": "Ryzen 5 7600X",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i7-8700K",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i7-6700K",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i5-8600K",
+        "rating": "97th"
+    },
+    {
+        "name": "Ryzen 5 3400G",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i7-2600K",
+        "rating": "97th"
+    },
+    {
+        "name": "Ryzen 5 2600",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i9-11900K",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i5-2500K",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i5-7600K",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i5-3570K",
+        "rating": "97th"
+    },
+    {
+        "name": "Ryzen 9 3900X",
+        "rating": "97th"
+    },
+    {
+        "name": "Core i5-6600K",
+        "rating": "96th"
+    },
+    {
+        "name": "Ryzen 9 5900X",
+        "rating": "96th"
+    },
+    {
+        "name": "Core i5-4690K",
+        "rating": "96th"
+    },
+    {
+        "name": "Ryzen 5 1600",
+        "rating": "96th"
+    },
+    {
+        "name": "Core i7-8700",
+        "rating": "96th"
+    },
+    {
+        "name": "Core i7-12700F",
+        "rating": "96th"
+    },
+    {
+        "name": "Core i7-7700HQ",
+        "rating": "96th"
+    },
+    {
+        "name": "Ryzen 3 3300X",
+        "rating": "96th"
+    },
+    {
+        "name": "Ryzen 7 1700X",
+        "rating": "96th"
+    },
+    {
+        "name": "Ryzen 7 1700",
+        "rating": "96th"
+    },
+    {
+        "name": "Ryzen 7 2700X",
+        "rating": "96th"
+    },
+    {
+        "name": "Ryzen 5 3600X",
+        "rating": "96th"
+    },
+    {
+        "name": "Core i9-13900KF",
+        "rating": "96th"
+    },
+    {
+        "name": "Ryzen 7 7700X",
+        "rating": "95th"
+    },
+    {
+        "name": "Ryzen 5 1600X",
+        "rating": "95th"
+    },
+    {
+        "name": "Core i3-8100",
+        "rating": "95th"
+    },
+    {
+        "name": "Core i7-13700KF",
+        "rating": "95th"
+    },
+    {
+        "name": "Ryzen 9 5950X",
+        "rating": "95th"
+    },
+    {
+        "name": "Pentium G4560",
+        "rating": "95th"
+    },
+    {
+        "name": "Ryzen 7 1800X",
+        "rating": "95th"
+    },
+    {
+        "name": "Core i7-8750H",
+        "rating": "95th"
+    },
+    {
+        "name": "Core i5-6500",
+        "rating": "95th"
+    },
+    {
+        "name": "Core i7-5820K",
+        "rating": "95th"
+    },
+    {
+        "name": "Ryzen 7 3800X",
+        "rating": "95th"
+    },
+    {
+        "name": "Core i7-6800K",
+        "rating": "95th"
+    },
+    {
+        "name": "Ryzen 3 2200G",
+        "rating": "95th"
+    },
+    {
+        "name": "Ryzen 3 3200G",
+        "rating": "95th"
+    },
+    {
+        "name": "Core i7-4770K",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i9-10900K",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i5-2500",
+        "rating": "94th"
+    },
+    {
+        "name": "Ryzen TR 1950X",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i7-2600",
+        "rating": "94th"
+    },
+    {
+        "name": "Ryzen TR 2950X",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i7-3930K",
+        "rating": "94th"
+    },
+    {
+        "name": "Ryzen 5 2400G",
+        "rating": "94th"
+    },
+    {
+        "name": "Ryzen TR 2990WX",
+        "rating": "94th"
+    },
+    {
+        "name": "Ryzen 7 2700",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i3-9350KF",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i7-6700HQ",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i7-4790",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i5-6600",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i5-4670K",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i7-7820X",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i5-8400",
+        "rating": "94th"
+    },
+    {
+        "name": "Ryzen TR 2920X",
+        "rating": "94th"
+    },
+    {
+        "name": "Core i5-4590",
+        "rating": "93rd"
+    },
+    {
+        "name": "Core i7-3770K",
+        "rating": "93rd"
+    },
+    {
+        "name": "Core i7-6700",
+        "rating": "93rd"
+    },
+    {
+        "name": "Core i3-6100",
+        "rating": "93rd"
+    },
+    {
+        "name": "Core i7-6950X",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen 5 1500X",
+        "rating": "93rd"
+    },
+    {
+        "name": "Core i7-6950X",
+        "rating": "93rd"
+    },
+    {
+        "name": "Core i5-8300H",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen 7 2700U",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen 5 3500U",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen TR 1900X",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen 3 1300X",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen TR 1920X",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen 9 3950X",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen 7 5800X3D",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen 9 7950X",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen 5 1400",
+        "rating": "93rd"
+    },
+    {
+        "name": "Core i7-7700",
+        "rating": "93rd"
+    },
+    {
+        "name": "Ryzen 5 2500U",
+        "rating": "92nd"
+    },
+    {
+        "name": "Ryzen 3 2200U",
+        "rating": "92nd"
+    },
+    {
+        "name": "Ryzen 7 4800H",
+        "rating": "92nd"
+    },
+    {
+        "name": "Core i5-8500",
+        "rating": "92nd"
+    },
+    {
+        "name": "Ryzen 5 5600G",
+        "rating": "92nd"
+    },
+    {
+        "name": "Core i5-2400",
+        "rating": "92nd"
+    },
+    {
+        "name": "Core i7-6850K",
+        "rating": "92nd"
+    },
+    {
+        "name": "Core i7-9750H",
+        "rating": "91st"
+    },
+    {
+        "name": "Ryzen 5 3500X",
+        "rating": "91st"
+    },
+    {
+        "name": "Core i7-8550U",
+        "rating": "91st"
+    },
+    {
+        "name": "Ryzen 7 5800H",
+        "rating": "91st"
+    },
+    {
+        "name": "Core i5-4460",
+        "rating": "91st"
+    },
+    {
+        "name": "Ryzen 5 4500U",
+        "rating": "91st"
+    },
+    {
+        "name": "Core i7-5930K",
+        "rating": "91st"
+    },
+    {
+        "name": "Core i7-11700F",
+        "rating": "91st"
+    },
+    {
+        "name": "Core i7-11700KF",
+        "rating": "91st"
+    },
+    {
+        "name": "Core i5-12500",
+        "rating": "91st"
+    },
+    {
+        "name": "Core i9-11900KF",
+        "rating": "91st"
+    },
+    {
+        "name": "Athlon 200GE",
+        "rating": "91st"
+    },
+    {
+        "name": "Core i7-11700",
+        "rating": "91st"
+    },
+    {
+        "name": "Ryzen 9 7900X",
+        "rating": "91st"
+    },
+    {
+        "name": "Ryzen 7 3750H",
+        "rating": "90th"
+    },
+    {
+        "name": "Ryzen 3 3100",
+        "rating": "90th"
+    },
+    {
+        "name": "Ryzen 7 3700U",
+        "rating": "90th"
+    },
+    {
+        "name": "Ryzen 5 3550H",
+        "rating": "90th"
+    },
+    {
+        "name": "Ryzen 5 5600H",
+        "rating": "90th"
+    },
+    {
+        "name": "Core i5-10300H",
+        "rating": "90th"
+    },
+    {
+        "name": "Ryzen 5 4600H",
+        "rating": "90th"
+    },
+    {
+        "name": "FX-6300",
+        "rating": "90th"
+    },
+    {
+        "name": "FX-8350",
+        "rating": "90th"
+    },
+    {
+        "name": "Core i5-11500",
+        "rating": "90th"
+    },
+    {
+        "name": "Core i5-11600KF",
+        "rating": "90th"
+    },
+    {
+        "name": "Core i7-10700",
+        "rating": "90th"
+    },
+    {
+        "name": "Ryzen 5 5600",
+        "rating": "90th"
+    },
+    {
+        "name": "Phenom II X4 965",
+        "rating": "89th"
+    },
+    {
+        "name": "Ryzen 3 2300U",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i9-9900KS",
+        "rating": "89th"
+    },
+    {
+        "name": "Ryzen 9 4900HS",
+        "rating": "89th"
+    },
+    {
+        "name": "Ryzen 7 4700U",
+        "rating": "89th"
+    },
+    {
+        "name": "Ryzen 5 3500",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i5-9300H",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i5-1135G7",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i5-10210U",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i3-10105F",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i5-7300HQ",
+        "rating": "89th"
+    },
+    {
+        "name": "Ryzen 3 3200U",
+        "rating": "89th"
+    },
+    {
+        "name": "Ryzen 9 5900HX",
+        "rating": "89th"
+    },
+    {
+        "name": "FX-8370",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i5-1035G1",
+        "rating": "89th"
+    },
+    {
+        "name": "Ryzen 5 3600XT",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i9-11900F",
+        "rating": "89th"
+    },
+    {
+        "name": "FX-9590",
+        "rating": "89th"
+    },
+    {
+        "name": "Core2 Quad Q9550",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i5-7500",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i9-10850K",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i7-3770",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i5-3470",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i9-11900",
+        "rating": "89th"
+    },
+    {
+        "name": "Ryzen 7 5700G",
+        "rating": "89th"
+    },
+    {
+        "name": "Ryzen 5 1600AF",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i3-7100",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i5-6400",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i5-4570",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i7-4770",
+        "rating": "89th"
+    },
+    {
+        "name": "FX-8320",
+        "rating": "89th"
+    },
+    {
+        "name": "Core i7-4700MQ",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-2670QM",
+        "rating": "87th"
+    },
+    {
+        "name": "Xeon X5690",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i5-8265U",
+        "rating": "87th"
+    },
+    {
+        "name": "Ryzen 3 3300U",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-1065G7",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i3-1005G1",
+        "rating": "87th"
+    },
+    {
+        "name": "Ryzen 3 4300U",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i5-8250U",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-7500U",
+        "rating": "87th"
+    },
+    {
+        "name": "Phenom II X4 955",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i5-4210U",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-10750H",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-3630QM",
+        "rating": "87th"
+    },
+    {
+        "name": "Core2 Quad Q9400",
+        "rating": "87th"
+    },
+    {
+        "name": "Ryzen 7 5700U",
+        "rating": "87th"
+    },
+    {
+        "name": "Core2 Quad Q9650",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i5-3570",
+        "rating": "87th"
+    },
+    {
+        "name": "Ryzen 9 5900HS",
+        "rating": "87th"
+    },
+    {
+        "name": "Ryzen 5 2500X",
+        "rating": "87th"
+    },
+    {
+        "name": "Ryzen 7 6800H",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-11800H",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-2700K",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-12700H",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-950",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i5-3230M",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-5960X",
+        "rating": "87th"
+    },
+    {
+        "name": "Core2 Quad Q6600",
+        "rating": "87th"
+    },
+    {
+        "name": "Pentium G3258",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i5-7400",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i5-7600",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i9-7980XE",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i9-7900X",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i3-8350K",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i5-8600",
+        "rating": "87th"
+    },
+    {
+        "name": "Pentium Gold G5400",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-8086K",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-9700KF",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-9700",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-9700F",
+        "rating": "87th"
+    },
+    {
+        "name": "Ryzen 7 3800XT",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-10700KF",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i9-10900KF",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i7-12700KF",
+        "rating": "87th"
+    },
+    {
+        "name": "Athlon 3000G",
+        "rating": "87th"
+    },
+    {
+        "name": "Ryzen 5 5500",
+        "rating": "87th"
+    },
+    {
+        "name": "Ryzen 7 5700X",
+        "rating": "87th"
+    },
+    {
+        "name": "Core i5-3330",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i7-3632QM",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i7-4700HQ",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i7-3610QM",
+        "rating": "83rd"
+    },
+    {
+        "name": "Phenom II X6 1100T",
+        "rating": "83rd"
+    },
+    {
+        "name": "Xeon X5650",
+        "rating": "83rd"
+    },
+    {
+        "name": "Phenom II X6 1055T",
+        "rating": "83rd"
+    },
+    {
+        "name": "Athlon II X4 750K",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i5-2450M",
+        "rating": "83rd"
+    },
+    {
+        "name": "A10-6800K APU (2013 D.Ri)",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i3-3240",
+        "rating": "83rd"
+    },
+    {
+        "name": "Xeon X3440",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i7-4710HQ",
+        "rating": "83rd"
+    },
+    {
+        "name": "Athlon II X4 860K",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i7-6500U",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i5-7200U",
+        "rating": "83rd"
+    },
+    {
+        "name": "Pentium G4600",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i7-7820HK",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i3-8130U",
+        "rating": "83rd"
+    },
+    {
+        "name": "Ryzen 7 4800HS",
+        "rating": "83rd"
+    },
+    {
+        "name": "Ryzen TR 3990X",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i7-10875H",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i3-7100U",
+        "rating": "83rd"
+    },
+    {
+        "name": "FX-8300",
+        "rating": "83rd"
+    },
+    {
+        "name": "Core i5-10500H",
+        "rating": "83rd"
+    },
+    {
+        "name": "Xeon W3690",
+        "rating": "84th"
+    },
+    {
+        "name": "FX-8320E",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-7300U",
+        "rating": "84th"
+    },
+    {
+        "name": "FX-6100",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-11300H",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i3-1115G4",
+        "rating": "84th"
+    },
+    {
+        "name": "Core2 Duo E8600",
+        "rating": "84th"
+    },
+    {
+        "name": "Xeon E5-1650 v2",
+        "rating": "84th"
+    },
+    {
+        "name": "Ryzen 5 5500U",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-12500H",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-3210M",
+        "rating": "84th"
+    },
+    {
+        "name": "Xeon X5460",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-11400H",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i7-11370H",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i7-8565U",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-9500",
+        "rating": "84th"
+    },
+    {
+        "name": "Pentium G3220",
+        "rating": "84th"
+    },
+    {
+        "name": "Xeon E3-1231 v3",
+        "rating": "84th"
+    },
+    {
+        "name": "Pentium G4400",
+        "rating": "84th"
+    },
+    {
+        "name": "Ryzen TR 2970WX",
+        "rating": "84th"
+    },
+    {
+        "name": "Ryzen TR 3970X",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i7-10700F",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i7-920",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i7-4820K",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i3-4130",
+        "rating": "84th"
+    },
+    {
+        "name": "Xeon E5450",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-750",
+        "rating": "84th"
+    },
+    {
+        "name": "Phenom II X6 1090T",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-2320",
+        "rating": "84th"
+    },
+    {
+        "name": "Core2 Quad Q8400",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-3550",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i7 860",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-3450",
+        "rating": "84th"
+    },
+    {
+        "name": "A10-7850K APU (2014 D.Ka)",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i9-9980XE",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i7-4930K",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i3-4160",
+        "rating": "84th"
+    },
+    {
+        "name": "Pentium G4620",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i9-7960X",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-4690",
+        "rating": "84th"
+    },
+    {
+        "name": "Xeon E3-1230 V2",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-9400",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i9-9900KF",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i3-9100",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-10600",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i3-4170",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-10500",
+        "rating": "84th"
+    },
+    {
+        "name": "Ryzen 9 3900XT",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i5-12600KF",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i3-2120",
+        "rating": "84th"
+    },
+    {
+        "name": "Core i7-3520M",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-2410M",
+        "rating": "78th"
+    },
+    {
+        "name": "FX-8120",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-2620M",
+        "rating": "78th"
+    },
+    {
+        "name": "A10-5800K APU (2012 D.Tr)",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-4702MQ",
+        "rating": "78th"
+    },
+    {
+        "name": "A8-5500 APU",
+        "rating": "78th"
+    },
+    {
+        "name": "Xeon W3565",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-4810MQ",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-4710MQ",
+        "rating": "78th"
+    },
+    {
+        "name": "A8-7600 APU (2014 D.Ka)",
+        "rating": "78th"
+    },
+    {
+        "name": "Xeon X5470",
+        "rating": "78th"
+    },
+    {
+        "name": "Xeon E5-1650 v3",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-4720HQ",
+        "rating": "78th"
+    },
+    {
+        "name": "A8-7410 APU (2015 M.Ca)",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-6600U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-6820HK",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3-6100U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-6300HQ",
+        "rating": "78th"
+    },
+    {
+        "name": "A12-9720P APU (2016 M.BR)",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-8650U",
+        "rating": "78th"
+    },
+    {
+        "name": "Pentium Silver N5000",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3-8145U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-9880H",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-9980HK",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-9600",
+        "rating": "78th"
+    },
+    {
+        "name": "Ryzen 7 4800U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-10980HK",
+        "rating": "78th"
+    },
+    {
+        "name": "Ryzen 9 4900H",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3-10320",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7 960",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-8665U",
+        "rating": "78th"
+    },
+    {
+        "name": "Ryzen 5 4600U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-6300U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-8850H",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-7920HQ",
+        "rating": "78th"
+    },
+    {
+        "name": "Xeon E5-1620 0",
+        "rating": "78th"
+    },
+    {
+        "name": "FX-8150",
+        "rating": "78th"
+    },
+    {
+        "name": "Xeon X3470",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-10870H",
+        "rating": "78th"
+    },
+    {
+        "name": "Pentium G4500",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-3320M",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3-7020U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3-3120M",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-2630QM",
+        "rating": "78th"
+    },
+    {
+        "name": "Core2 Duo E7500",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3-5005U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core2 Duo E8500",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-12900H",
+        "rating": "78th"
+    },
+    {
+        "name": "Pentium G3250",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-10850H",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-10900X",
+        "rating": "78th"
+    },
+    {
+        "name": "A10-7890K APU (2014 D.Ka)",
+        "rating": "78th"
+    },
+    {
+        "name": "Ryzen 7 5800U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-3380M",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-10510U",
+        "rating": "78th"
+    },
+    {
+        "name": "Pentium Gold G6400",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-11900H",
+        "rating": "78th"
+    },
+    {
+        "name": "Core2 Quad Q8200",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-1165G7",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-5200U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-12650H",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-5600U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-8350U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3-10110U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-7600U",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-12700",
+        "rating": "78th"
+    },
+    {
+        "name": "Xeon E3-1220 v3",
+        "rating": "78th"
+    },
+    {
+        "name": "Xeon E3-1240 V2",
+        "rating": "78th"
+    },
+    {
+        "name": "Core2 Quad Q8300",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3 540",
+        "rating": "78th"
+    },
+    {
+        "name": "A8-6600K APU",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-2520M",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5 760",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3 550",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-3720QM",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7 870",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5 650",
+        "rating": "78th"
+    },
+    {
+        "name": "Athlon II X4 640",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7 930",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-13900KS",
+        "rating": "78th"
+    },
+    {
+        "name": "Core2 Quad Q9300",
+        "rating": "78th"
+    },
+    {
+        "name": "Ryzen TR 3960X",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-2540M",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-7740X",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-10900",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-12900KF",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-12600",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-3740QM",
+        "rating": "78th"
+    },
+    {
+        "name": "Core2 Duo E8400",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-4440",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-4771",
+        "rating": "78th"
+    },
+    {
+        "name": "FX-9370",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3-3220",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-3960X",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5-4670",
+        "rating": "78th"
+    },
+    {
+        "name": "Xeon E3-1230 v3",
+        "rating": "78th"
+    },
+    {
+        "name": "FX-4300",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-6900K",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i3-7350K",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i7-7740X",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i9-7920X",
+        "rating": "78th"
+    },
+    {
+        "name": "Core i5 M 430",
+        "rating": "71st"
+    },
+    {
+        "name": "Phenom II X4 945",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-3317U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3612QM",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-4200U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-2640M",
+        "rating": "71st"
+    },
+    {
+        "name": "Phenom II X4 B55",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-2350M",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium E5700",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium B960",
+        "rating": "71st"
+    },
+    {
+        "name": "Athlon II X2 250 (2013 D.Ri)",
+        "rating": "71st"
+    },
+    {
+        "name": "A10-4600M APU",
+        "rating": "71st"
+    },
+    {
+        "name": "A8-5600K APU",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-3340M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-2370M",
+        "rating": "71st"
+    },
+    {
+        "name": "Athlon II X2 270",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-2310",
+        "rating": "71st"
+    },
+    {
+        "name": "Core2 Duo E7400",
+        "rating": "71st"
+    },
+    {
+        "name": "A10-5700 APU (2012 D.Tr)",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-4200M",
+        "rating": "71st"
+    },
+    {
+        "name": "Athlon II X4 645",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-2328M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7 X 990",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-3340",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5 660",
+        "rating": "71st"
+    },
+    {
+        "name": "Phenom II X2 555",
+        "rating": "71st"
+    },
+    {
+        "name": "A6-6400K APU",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5 M 480",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium G2020",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-4330",
+        "rating": "71st"
+    },
+    {
+        "name": "A8-3870 APU",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium E5400",
+        "rating": "71st"
+    },
+    {
+        "name": "A10-6700 APU (2013 D.Ri)",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1240 v3",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1245 v3",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-4300U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-3250",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-4300M",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon X3430",
+        "rating": "71st"
+    },
+    {
+        "name": "Phenom II X4 980",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-2550K",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E31270",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-3470S",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E5-1620 v2",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7 970",
+        "rating": "71st"
+    },
+    {
+        "name": "A4-4000 APU",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-4200H",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon X3450",
+        "rating": "71st"
+    },
+    {
+        "name": "Core2 Extreme X9770",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1270 V2",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1270 v3",
+        "rating": "71st"
+    },
+    {
+        "name": "A8-6410 APU R5 Graphics",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-4210M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-4310U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-4030U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7 880",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium N3540",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-5300U",
+        "rating": "71st"
+    },
+    {
+        "name": "FX-8370E",
+        "rating": "71st"
+    },
+    {
+        "name": "A8-7650K APU (2014 D.Ka)",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-5700HQ",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-6200U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core m3-6Y30",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium G4520",
+        "rating": "71st"
+    },
+    {
+        "name": "A10-7860K APU (2014 D.Ka)",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1230 v5",
+        "rating": "71st"
+    },
+    {
+        "name": "Athlon X4 880K",
+        "rating": "71st"
+    },
+    {
+        "name": "A12-9700P APU (2016 M.BR)",
+        "rating": "71st"
+    },
+    {
+        "name": "Celeron N3450",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-7700T",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1505M v6",
+        "rating": "71st"
+    },
+    {
+        "name": "A10-9700 APU (2016 M.BR)",
+        "rating": "71st"
+    },
+    {
+        "name": "A6-9500 APU (2016 D.BR)",
+        "rating": "71st"
+    },
+    {
+        "name": "A8-9600 APU (2016 D.BR)",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-7130U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-8400T",
+        "rating": "71st"
+    },
+    {
+        "name": "A9-9425 APU (2016 M.SR)",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium Silver J5005",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i9-8950HK",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-8500T",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-8259U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-8559U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-8365U",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 5 4600HS",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-10710U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-1035G4",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-1035G7",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i9-10980XE",
+        "rating": "71st"
+    },
+    {
+        "name": "Celeron N4020",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-1145G7",
+        "rating": "71st"
+    },
+    {
+        "name": "A6-5200 APU",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-4500U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-3337U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3 M 330",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium G2030",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3537U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-2760QM",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1225 v3",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-4510U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core2 Quad Q9500",
+        "rating": "71st"
+    },
+    {
+        "name": "Celeron 1007U",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-7820HQ",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-4000M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-4005U",
+        "rating": "71st"
+    },
+    {
+        "name": "FX-4100",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 7 4700G",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i9-12900HK",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5 M 520",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 5 PRO 4650G",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-2430M",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 9 5900",
+        "rating": "71st"
+    },
+    {
+        "name": "A10-9620P APU (2016 M.BR)",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-2300",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 5 5600U",
+        "rating": "71st"
+    },
+    {
+        "name": "A4-6300 APU",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium Gold G7400",
+        "rating": "71st"
+    },
+    {
+        "name": "FX-6350 Six-Core",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-6006U",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 7 5800HS",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 9 6900HS",
+        "rating": "71st"
+    },
+    {
+        "name": "Pentium P6200",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1220 V2",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 9 6900HX",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-2130",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-3350P",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-6820HQ",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 7 5800",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-2400S",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-4790S",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E5-2690 v2",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1245 V2",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3840QM",
+        "rating": "71st"
+    },
+    {
+        "name": "Core2 Duo E7300",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-4430",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-2330M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7 X 980",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E5-1650 0",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3940XM",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon W3530",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-4800MQ",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-3360M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3540M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3 M 380",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-3110M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3820",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7 Q 720",
+        "rating": "71st"
+    },
+    {
+        "name": "A10-7870K APU (2014 D.Ka)",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon W3680",
+        "rating": "71st"
+    },
+    {
+        "name": "FX-4350",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E5-1650 0",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3940XM",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-4150",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-4800MQ",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon W3530",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3540M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3 M 380",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-3110M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3820",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-3360M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7 Q 720",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-2100",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-3840QM",
+        "rating": "71st"
+    },
+    {
+        "name": "Core2 Duo T8100",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-4770S",
+        "rating": "71st"
+    },
+    {
+        "name": "Core2 Duo E7300",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-4430",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-2330M",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7 X 980",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-4370",
+        "rating": "71st"
+    },
+    {
+        "name": "Celeron G1840",
+        "rating": "71st"
+    },
+    {
+        "name": "A10-7870K APU (2014 D.Ka)",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E3-1241 v3",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-6320",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-7320",
+        "rating": "71st"
+    },
+    {
+        "name": "Xeon E5-2670",
+        "rating": "71st"
+    },
+    {
+        "name": "Celeron G3930",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-7640X",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i3-7300",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i5-11600",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i9-10900F",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i9-12900F",
+        "rating": "71st"
+    },
+    {
+        "name": "Ryzen 9 7950X3D",
+        "rating": "71st"
+    },
+    {
+        "name": "Core i7-2860QM",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X3 450",
+        "rating": "58th"
+    },
+    {
+        "name": "FX-4170 Quad-Core",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo T6600",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3 M 370",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-4702HQ",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X3 720",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II P340",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7 Q 740",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium 4 3.00GHz",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X4 630",
+        "rating": "58th"
+    },
+    {
+        "name": "A6-3400M APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium B970",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo P8700",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-2675QM",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-3517U",
+        "rating": "58th"
+    },
+    {
+        "name": "A6-3420M APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo P8600",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-3615QM",
+        "rating": "58th"
+    },
+    {
+        "name": "A8-4500M APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-3427U",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5 M 540",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X6 1075T",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom 9500",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-2500S",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium 2020M",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 5200+",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X3 445",
+        "rating": "58th"
+    },
+    {
+        "name": "A6-4400M APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo T9600",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo T7250",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X4 960T",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X6 1045T",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X3 455",
+        "rating": "58th"
+    },
+    {
+        "name": "Atom 330",
+        "rating": "58th"
+    },
+    {
+        "name": "A6-3650 APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium E5500",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X2 245",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium E6700",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X3 435",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X2 565",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X4 940",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo E4600",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X4 970",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 4800+",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-4960X",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X3 710",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom 9550",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3-2348M",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-2960XM",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 4400+",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 5000+",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 4000+",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo P8800",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X2 550",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom 9750",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-3635QM",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X4 925",
+        "rating": "58th"
+    },
+    {
+        "name": "FX-6200 Six-Core",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Extreme X9650",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium B940",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom 9950",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-3667U",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo T6670",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X4 631",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium T4300",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-3687U",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom II X4 975",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium E5800",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium G840",
+        "rating": "57th"
+    },
+    {
+        "name": "C-50",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium E6300",
+        "rating": "57th"
+    },
+    {
+        "name": "Core2 Duo P9700",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom II X4 840",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon II X4 635",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E5-2643 0",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom II X4 905e",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon II X4 620",
+        "rating": "57th"
+    },
+    {
+        "name": "A4-5300 APU",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom II X4 850",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon W3520",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon II X4 651",
+        "rating": "57th"
+    },
+    {
+        "name": "A8-4555M APU",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron 1037U",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon W3550",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon X3460",
+        "rating": "57th"
+    },
+    {
+        "name": "A10-5750M APU",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom X3 8450",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-4750HQ",
+        "rating": "57th"
+    },
+    {
+        "name": "Core2 Quad Q6700",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron 1017U",
+        "rating": "57th"
+    },
+    {
+        "name": "A6-5400K APU",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom II X4 B45",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-4558U",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-2415M",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-3437U",
+        "rating": "57th"
+    },
+    {
+        "name": "A10-5745M APU",
+        "rating": "57th"
+    },
+    {
+        "name": "A8-3850 APU",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-3820QM",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon II X2 260",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon II X4 740K",
+        "rating": "57th"
+    },
+    {
+        "name": "A6-3670 APU",
+        "rating": "57th"
+    },
+    {
+        "name": "Core2 Duo E7600",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7 L 640",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-3227U",
+        "rating": "57th"
+    },
+    {
+        "name": "Core2 Duo P9400",
+        "rating": "57th"
+    },
+    {
+        "name": "A8-5550M APU",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-2375M",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron 1000M",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom II X4 B50",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E3-1240",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom 9650",
+        "rating": "57th"
+    },
+    {
+        "name": "A8-6500 APU",
+        "rating": "57th"
+    },
+    {
+        "name": "E-350",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon II X3 440",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom II X2 560",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon II X2 220",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 6400+",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E3-1275 v3",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-4258U",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron N2820",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium B980",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X2 255",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X2 B24",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium 2117U",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5-2630 0",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II X3 460",
+        "rating": "58th"
+    },
+    {
+        "name": "FX-6120 Six-Core",
+        "rating": "58th"
+    },
+    {
+        "name": "A8-3800 APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron B820",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium M processor 1.73GHz",
+        "rating": "58th"
+    },
+    {
+        "name": "A6-3620 APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-4850HQ",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X4 B60",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3 M 390",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-4940MX",
+        "rating": "58th"
+    },
+    {
+        "name": "A10-7700K APU (2014 D.Ka)",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 5350 APU R3",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5-1603 0",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-2405S",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 64 4000+",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron J1900",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium N3530",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-4610M",
+        "rating": "58th"
+    },
+    {
+        "name": "A10-7300 APU (2014 M.Ka)",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron N2830",
+        "rating": "58th"
+    },
+    {
+        "name": "A4-3300M APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-2635QM",
+        "rating": "58th"
+    },
+    {
+        "name": "A10-6790K APU (2013 D.Ri)",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-4790T",
+        "rating": "58th"
+    },
+    {
+        "name": "A10-5800B APU (2012 D.Tr)",
+        "rating": "58th"
+    },
+    {
+        "name": "FX-7500 APU (2014 M.Ka)",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5430",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron N2840",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon X5560",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5-2680 v2",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E3-1271 v3",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5440",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5-2670 v2",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E3-1226 v3",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-4770HQ",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5472",
+        "rating": "58th"
+    },
+    {
+        "name": "A8-7100 APU (2014 M.Ka)",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-5500U",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3-5010U",
+        "rating": "58th"
+    },
+    {
+        "name": "Core M-5Y10c",
+        "rating": "58th"
+    },
+    {
+        "name": "Core M-5Y71",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-5257U",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-5557U",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-5650U",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-5015U",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-6700T",
+        "rating": "57th"
+    },
+    {
+        "name": "A8-7670K APU (2014 D.Ka)",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-6600T",
+        "rating": "57th"
+    },
+    {
+        "name": "A6-7310 APU (2015 M.Ca)",
+        "rating": "57th"
+    },
+    {
+        "name": "Core m5-6Y54",
+        "rating": "57th"
+    },
+    {
+        "name": "Atom x5-Z8500",
+        "rating": "57th"
+    },
+    {
+        "name": "Core m7-6Y75",
+        "rating": "57th"
+    },
+    {
+        "name": "Core m5-6Y57",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-6098P",
+        "rating": "57th"
+    },
+    {
+        "name": "A10-9600P APU (2016 M.BR)",
+        "rating": "57th"
+    },
+    {
+        "name": "A6-7470K APU (2014 D.Ka)",
+        "rating": "57th"
+    },
+    {
+        "name": "FX-9800P APU (2016 M.BR)",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E3-1220 v5",
+        "rating": "57th"
+    },
+    {
+        "name": "E2-7110 APU (2015 M.Ca)",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron N3160",
+        "rating": "57th"
+    },
+    {
+        "name": "Core m3-7Y30",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium N4200",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron J3455",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium J4205",
+        "rating": "57th"
+    },
+    {
+        "name": "FX-9830P APU (2016 M.BR)",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-7500T",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-7567U",
+        "rating": "57th"
+    },
+    {
+        "name": "A12-9730P APU (2016 M.BR)",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-7100T",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-7400T",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium 4415U",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E3-1230 v6",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-7660U",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-7260U",
+        "rating": "57th"
+    },
+    {
+        "name": "A6-9220 APU (2016 M.SR)",
+        "rating": "57th"
+    },
+    {
+        "name": "A12-9800 APU (2016 M.BR)",
+        "rating": "57th"
+    },
+    {
+        "name": "A9-9420 APU (2016 M.SR)",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E3-1245 v6",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E3-1270 v6",
+        "rating": "57th"
+    },
+    {
+        "name": "A9-9430 APU (2016 M.SR)",
+        "rating": "57th"
+    },
+    {
+        "name": "A4-9120 APU (2016 M.SR)",
+        "rating": "57th"
+    },
+    {
+        "name": "A10-9700E APU (2016 D.BR)",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron N4100",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-8809G",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-8705G",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium Gold G5500",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-8100T",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-8400H",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium Gold 4415Y",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-8109U",
+        "rating": "57th"
+    },
+    {
+        "name": "Ryzen 5 2600H",
+        "rating": "58th"
+    },
+    {
+        "name": "Ryzen 7 2800H",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium 4417U",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium Gold 4425Y",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium 5405U",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-9850H",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 300U",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i9-10920X",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i9-10940X",
+        "rating": "58th"
+    },
+    {
+        "name": "Ryzen 9 4900U",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-10310U",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i9-10885H",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-10700T",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-10200H",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-11375H",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium N3710",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 64 3500+",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-4600U",
+        "rating": "58th"
+    },
+    {
+        "name": "C-60 APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X2 545",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium E6800",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium E6600",
+        "rating": "58th"
+    },
+    {
+        "name": "A10-7800 APU (2014 D.Ka)",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-6920HQ",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium G640",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium G2130",
+        "rating": "58th"
+    },
+    {
+        "name": "V120",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5345",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-2820QM",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium N3520",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E3-1275 V2",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3-3225",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3-2365M",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon X5660",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-1185G7",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-1160G7",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5540",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Quad Q9450",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5 M 460",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i9-11950H",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-11850H",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 3800+",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Quad Q9505",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5 680",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium G850",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5 M 560",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium G2010",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon 220GE",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron N4000",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i9-12900HX",
+        "rating": "58th"
+    },
+    {
+        "name": "Ryzen 7 PRO 4750G",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-4600M",
+        "rating": "57th"
+    },
+    {
+        "name": "Ryzen 9 5980HS",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i9-11980HK",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium G3260",
+        "rating": "57th"
+    },
+    {
+        "name": "Ryzen 3 5300G",
+        "rating": "57th"
+    },
+    {
+        "name": "FX-8310",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-12450H",
+        "rating": "57th"
+    },
+    {
+        "name": "Core M-5Y51",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium G630",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon II X2 240",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3 M 350",
+        "rating": "57th"
+    },
+    {
+        "name": "Ryzen 5 4500",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E31220",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-3217U",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7 M 640",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-4460S",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-3470T",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i9-12950HX",
+        "rating": "57th"
+    },
+    {
+        "name": "Ryzen 5 6600H",
+        "rating": "57th"
+    },
+    {
+        "name": "Ryzen 3 4100",
+        "rating": "57th"
+    },
+    {
+        "name": "Phenom II X4 810",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium Gold G6600",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E5-2630 v3",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5-9400H",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon II X4 760K (2013 D.Ri)",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-1260P",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-12300",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron 2957U",
+        "rating": "57th"
+    },
+    {
+        "name": "Core2 Duo T9500",
+        "rating": "57th"
+    },
+    {
+        "name": "Athlon 240GE",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E5420",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E5-2687W 0",
+        "rating": "57th"
+    },
+    {
+        "name": "Core2 Quad Q9000",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron E3300",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon E3-1225 V2",
+        "rating": "57th"
+    },
+    {
+        "name": "Pentium Dual E2140",
+        "rating": "57th"
+    },
+    {
+        "name": "Xeon X3220",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron G1620",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-3970X",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7 940",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i5 661",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7-2720QM",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7 K 875",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i7 980",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-3210",
+        "rating": "57th"
+    },
+    {
+        "name": "Core2 Duo T7700",
+        "rating": "57th"
+    },
+    {
+        "name": "Celeron G530",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3-2310M",
+        "rating": "57th"
+    },
+    {
+        "name": "Core i3 530",
+        "rating": "57th"
+    },
+    {
+        "name": "Core2 Duo T6400",
+        "rating": "58th"
+    },
+    {
+        "name": "A4-4300M APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Athlon II P320",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium E5200",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo T9900",
+        "rating": "58th"
+    },
+    {
+        "name": "Phenom II X4 20",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E3110",
+        "rating": "58th"
+    },
+    {
+        "name": "A6-3500 APU",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-5775C",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-9800X",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium E5300",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo E8300",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo E6750",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo E6850",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Quad",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5-2620 0",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron E3400",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5-2620 v2",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon L5420",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-3450S",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron G4900",
+        "rating": "58th"
+    },
+    {
+        "name": "Ryzen 7 7700",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E5-2660 v2",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium G860",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium G620",
+        "rating": "58th"
+    },
+    {
+        "name": "Ryzen 5 7600",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-13700F",
+        "rating": "58th"
+    },
+    {
+        "name": "Ryzen 9 7900",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-3330S",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium G645",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron G1610",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo T8300",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon X5570",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-3475S",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-2600S",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3-4360",
+        "rating": "58th"
+    },
+    {
+        "name": "Pentium G3460",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-4900MQ",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron G1850",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3-4130T",
+        "rating": "58th"
+    },
+    {
+        "name": "Xeon E3-1246 v3",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron G1820",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-4570T",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-4570S",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3-6300",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i5-5675C",
+        "rating": "58th"
+    },
+    {
+        "name": "Core2 Duo E6550",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3-6100T",
+        "rating": "58th"
+    },
+    {
+        "name": "Celeron G3900",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i3-8300",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i9-12900",
+        "rating": "58th"
+    },
+    {
+        "name": "Core i7-13700F",
+        "rating": "58th"
+    },
+    {
+        "name": "Ryzen 7 7700",
+        "rating": "58th"
+    },
+    {
+        "name": "Ryzen 9 7900",
+        "rating": "58th"
+    },
+    {
+        "name": "Turion II Neo N40L",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron 887",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo E4500",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom N550",
+        "rating": "31st"
+    },
+    {
+        "name": "Turion X2 Dual-Core Mobile RM-70",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II N950",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium D 2.80GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium 4 3.40GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo P8400",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T6570",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium T4200",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-2920XM",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-2367M",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium 4 3.06GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo P9300",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II N830",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom N2600",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium P6100",
+        "rating": "31st"
+    },
+    {
+        "name": "Turion 64 X2 Mobile Technology TL-58",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium Dual E2180",
+        "rating": "31st"
+    },
+    {
+        "name": "E2-1800 APU (2012 M.Za)",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-2467M",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T7500",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7 M 620",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon II X2 215",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7 L 620",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-2435M",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon II X2 265",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon 64 3400+",
+        "rating": "31st"
+    },
+    {
+        "name": "V140",
+        "rating": "31st"
+    },
+    {
+        "name": "Sempron 3600+",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo P7450",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II X6 1035T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3 U 330",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon II X4 641",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo L9600",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron Dual Core T3100",
+        "rating": "31st"
+    },
+    {
+        "name": "A8-3530MX APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-4250U",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium T4400",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core TK-55",
+        "rating": "31st"
+    },
+    {
+        "name": "Turion 64 X2 Mobile Technology TL-52",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II X4 920",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 6420",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium B950",
+        "rating": "31st"
+    },
+    {
+        "name": "T2500",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5 M 450",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo P7350",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II P960",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium Dual T2390",
+        "rating": "31st"
+    },
+    {
+        "name": "E1-1200 APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium Dual E2160",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom Z2760",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II X4 830",
+        "rating": "31st"
+    },
+    {
+        "name": "Turion X2 Ultra Mobile ZM-82",
+        "rating": "31st"
+    },
+    {
+        "name": "E-450 APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon II X3 425",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium T4500",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium Dual T3200",
+        "rating": "31st"
+    },
+    {
+        "name": "Turion 64 X2 Mobile Technology TL-60",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T5800",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon 64 3800+",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom N455",
+        "rating": "31st"
+    },
+    {
+        "name": "U2300",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T5900",
+        "rating": "31st"
+    },
+    {
+        "name": "FX-4130 Quad-Core",
+        "rating": "31st"
+    },
+    {
+        "name": "E-300 APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-4930MX",
+        "rating": "31st"
+    },
+    {
+        "name": "Turion 64 X2 Mobile Technology TL-56",
+        "rating": "31st"
+    },
+    {
+        "name": "T2300",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 T5500",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7 Q 840",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom N270",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon 7850",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium Dual T2310",
+        "rating": "31st"
+    },
+    {
+        "name": "Turion II Mobile M500",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo P7550",
+        "rating": "31st"
+    },
+    {
+        "name": "Sempron 140",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon Dual Core 4450B",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo E8200",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-2537M",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron B815",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom N450",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 4200+",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom Z3740",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom Z3740D",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium D 3.00GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium 2127U",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T6500",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-3339Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T5670",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7 Q 820",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon 7750",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon X2 Dual-Core QL-64",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon W3503",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon II P360",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon X5472",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core2 6700",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom N570",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core Duo T2350",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon E5530",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon Dual Core 4850e",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon Neo X2 Dual Core L335",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 967",
+        "rating": "32nd"
+    },
+    {
+        "name": "575",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 5400+",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon E31225",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 4 2.93GHz",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core2 Duo U9600",
+        "rating": "32nd"
+    },
+    {
+        "name": "U7300",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron 900",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-4770T",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon II M320",
+        "rating": "32nd"
+    },
+    {
+        "name": "Phenom X3 8650",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon E5-2603 0",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium M processor 1.86GHz",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom N280",
+        "rating": "32nd"
+    },
+    {
+        "name": "A4-3300 APU",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon 2650e",
+        "rating": "32nd"
+    },
+    {
+        "name": "T2080",
+        "rating": "32nd"
+    },
+    {
+        "name": "Sempron 2800+",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium Dual T2370",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon X2 Dual-Core QL-65",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i3-4010U",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 987",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron G550",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron M 430",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-2677M",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-3920XM",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom 230",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 3600+",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 4 2.60GHz",
+        "rating": "32nd"
+    },
+    {
+        "name": "A6-3410MX APU",
+        "rating": "32nd"
+    },
+    {
+        "name": "A4-5000 APU",
+        "rating": "32nd"
+    },
+    {
+        "name": "Turion II Ultra Mobile M600",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i5-2557M",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-2637M",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core2 Duo T5870",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron M processor 1.50GHz",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon 64 3000+",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom D510",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core2 Duo L9300",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom Z3770",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core2 Duo L9400",
+        "rating": "32nd"
+    },
+    {
+        "name": "A8-3510MX APU",
+        "rating": "32nd"
+    },
+    {
+        "name": "A10-6700T APU (2013 D.Ri)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core2 T7400",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo L7100",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium D 3.40GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo P9500",
+        "rating": "31st"
+    },
+    {
+        "name": "Opteron 4171 HE",
+        "rating": "31st"
+    },
+    {
+        "name": "T2250",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon L5639",
+        "rating": "31st"
+    },
+    {
+        "name": "A6-4455M APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron G540",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon II M300",
+        "rating": "31st"
+    },
+    {
+        "name": "E2-3000M APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II X4 B65",
+        "rating": "31st"
+    },
+    {
+        "name": "A4-3400 APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5 U 470",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-4550U",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E5504",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo L7500",
+        "rating": "31st"
+    },
+    {
+        "name": "A10-4655M APU",
+        "rating": "31st"
+    },
+    {
+        "name": "AthlonX2 DualCore QL-60",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron 877",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron E3200",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-4202Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-4650U",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-4210Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Sempron 145",
+        "rating": "31st"
+    },
+    {
+        "name": "2140",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II N850",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T5850",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-4570R",
+        "rating": "31st"
+    },
+    {
+        "name": "T2400",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E31230",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron B800",
+        "rating": "31st"
+    },
+    {
+        "name": "A4-3305M APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II N930",
+        "rating": "31st"
+    },
+    {
+        "name": "E-350D APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T9800",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-2357M",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium 4 3.20GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Extreme Q6850",
+        "rating": "31st"
+    },
+    {
+        "name": "Turion II Neo N54L",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom 9600",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon LE-1640",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom D2700",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo P7570",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom 9150e",
+        "rating": "31st"
+    },
+    {
+        "name": "E1-2100 APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Sempron 3400+",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3 U 380",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E7- 4870",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom II X4 840T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 X6800",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron E1500",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 4600+",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i5-4300Y",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron Dual Core T3300",
+        "rating": "32nd"
+    },
+    {
+        "name": "A4-1250 APU",
+        "rating": "32nd"
+    },
+    {
+        "name": "Phenom II N660",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom N2800",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium G870",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 3550M",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i5 K 655",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core TK-53",
+        "rating": "32nd"
+    },
+    {
+        "name": "A8-5545M APU",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon Dual Core 4450e",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-4960HQ",
+        "rating": "32nd"
+    },
+    {
+        "name": "Phenom II X4 B40",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron N2815",
+        "rating": "32nd"
+    },
+    {
+        "name": "E1-2500 APU",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron 723",
+        "rating": "32nd"
+    },
+    {
+        "name": "Phenom II X4 910e",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon X2 Dual Core BE-2400",
+        "rating": "32nd"
+    },
+    {
+        "name": "Turion 64 Mobile Technology ML-32",
+        "rating": "32nd"
+    },
+    {
+        "name": "A4-4355M APU",
+        "rating": "32nd"
+    },
+    {
+        "name": "U4100",
+        "rating": "32nd"
+    },
+    {
+        "name": "E2-2000 APU (2012 M.Za)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 4 3.80GHz",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-4712HQ",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium N3510",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core2 T5200",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon Neo MV-40",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i3-4012Y",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core2 Duo U9400",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom Z3775",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon II X4 555",
+        "rating": "32nd"
+    },
+    {
+        "name": "Athlon X2 Dual Core BE-2300",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium J2900",
+        "rating": "32nd"
+    },
+    {
+        "name": "Phenom II P940",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon W3505",
+        "rating": "32nd"
+    },
+    {
+        "name": "A4-6320 APU",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron D 3.06GHz",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom D410",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom N435",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron N2930",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon E5507",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core M-5Y70",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon E5462",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core M-5Y10",
+        "rating": "32nd"
+    },
+    {
+        "name": "FX-770K (2014 D.Ka)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon X5667",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon E5310",
+        "rating": "32nd"
+    },
+    {
+        "name": "FX-7600P APU (2014 M.Ka)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium G3450",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon E5320",
+        "rating": "32nd"
+    },
+    {
+        "name": "Xeon E5335",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i5-5250U",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i5-5287U",
+        "rating": "32nd"
+    },
+    {
+        "name": "A6-7000 APU (2014 M.Ka)",
+        "rating": "32nd"
+    },
+    {
+        "name": "A10-7400P APU (2014 M.Ka)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom x7-Z8700",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core M-5Y10a",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-5950HQ",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron N3150",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-4722HQ",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron N3050",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron N3000",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core M-5Y31",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 3805U",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-5850HQ",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i5-6260U",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom x5-Z8300",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-5775R",
+        "rating": "32nd"
+    },
+    {
+        "name": "A4-7210 APU (2015 M.Ca)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 4405U",
+        "rating": "32nd"
+    },
+    {
+        "name": "A8-7500 APU (2014 M.Ka)",
+        "rating": "32nd"
+    },
+    {
+        "name": "A8-7200P APU (2014 M.Ka)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron N3060",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom x5-Z8350",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 4405Y",
+        "rating": "32nd"
+    },
+    {
+        "name": "E2-9010 APU (2016 M.SR)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-6567U",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom x5-Z8330",
+        "rating": "32nd"
+    },
+    {
+        "name": "A6-9210 APU (2016 M.SR)",
+        "rating": "32nd"
+    },
+    {
+        "name": "A9-9400 APU (2016 M.SR)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom x7-Z8750",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i3-6157U",
+        "rating": "32nd"
+    },
+    {
+        "name": "A10-9630P APU (2016 M.BR)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i5-7Y54",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron N3010",
+        "rating": "32nd"
+    },
+    {
+        "name": "Atom x5-Z8550",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron N3350",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-5550U",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-7Y75",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i3-7300T",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron G3950",
+        "rating": "32nd"
+    },
+    {
+        "name": "A6-9200 APU (2016 M.SR)",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i5-7600T",
+        "rating": "32nd"
+    },
+    {
+        "name": "Core i7-7560U",
+        "rating": "32nd"
+    },
+    {
+        "name": "Celeron J3355",
+        "rating": "32nd"
+    },
+    {
+        "name": "Pentium 4410Y",
+        "rating": "32nd"
+    },
+    {
+        "name": "E2-9000e APU (2016 M.SR)",
+        "rating": "32nd"
+    },
+    {
+        "name": "A12-9800E APU (2016 M.BR)",
+        "rating": "31st"
+    },
+    {
+        "name": "A6-9500E APU (2016 D.BR)",
+        "rating": "31st"
+    },
+    {
+        "name": "E2-9000 APU (2016 M.SR)",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-7167U",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G4560T",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron J4005",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-8305G",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-8706G",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G5500T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core m3-7Y32",
+        "rating": "31st"
+    },
+    {
+        "name": "Core m3-8100Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-8279U",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-10400T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-10600T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-10100T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-10900T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-1130G7",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-12650HX",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron N2920",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron 1005M",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-8200Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-8210Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-8500Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-10210Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T9550",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-4670S",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E5520",
+        "rating": "31st"
+    },
+    {
+        "name": "A9-9410 APU (2016 M.SR)",
+        "rating": "31st"
+    },
+    {
+        "name": "A6-7400K APU (2014 D.Ka)",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-3689Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron J4105",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo E4700",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-6650U",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron 3205U",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 6600",
+        "rating": "31st"
+    },
+    {
+        "name": "Z-60 APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Atom D525",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium D 3.20GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-2450P",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7 975",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-6167U",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-10500T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-1195G7",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-10510Y",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium D 3.73GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E3-1286 v3",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium N3700",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron G6900",
+        "rating": "31st"
+    },
+    {
+        "name": "Sempron 3000+",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-10400H",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 6000+",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-1280P",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-12800H",
+        "rating": "31st"
+    },
+    {
+        "name": "Phenom 9850",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon 64 X2 Dual Core 5600+",
+        "rating": "31st"
+    },
+    {
+        "name": "A4-6210 APU R3 Graphics",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-7101E",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon X2 240",
+        "rating": "31st"
+    },
+    {
+        "name": "Ryzen 3 5400U",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron B830",
+        "rating": "31st"
+    },
+    {
+        "name": "A8-3500M APU",
+        "rating": "31st"
+    },
+    {
+        "name": "A8-3520M APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium 4 2.40GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T5550",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E3-1265L v3",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-10300T",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E5-2609 0",
+        "rating": "31st"
+    },
+    {
+        "name": "A10-5757M APU",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-13980HX",
+        "rating": "31st"
+    },
+    {
+        "name": "Ryzen 5 4600G",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-12600H",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 6400",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Extreme X9100",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E5405",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-1240P",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-1360P",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-1340P",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-13950HX",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 T7600",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-2105",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-2120T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 T5600",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T7300",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-13700H",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-13900H",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-13620H",
+        "rating": "31st"
+    },
+    {
+        "name": "Ryzen 9 7945HX",
+        "rating": "31st"
+    },
+    {
+        "name": "Ryzen 7 7735HS",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-13900HX",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E3-1276 v3",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium Gold G6500",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G3430",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G3420",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon W3570",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E5506",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T5250",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium Dual T3400",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T5450",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo P9600",
+        "rating": "31st"
+    },
+    {
+        "name": "Core X 920",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon L5520",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5 M 580",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron E1400",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7 X 940",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 6300",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium Dual E2200",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 4300",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 T5300",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T7100",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 6320",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7 X 920",
+        "rating": "31st"
+    },
+    {
+        "name": "T2600",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Extreme Q9300",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium 4 2.80GHz",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium E6500",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G6950",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 T7200",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron 847",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G2120",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron G1830",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-6300T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-9960X",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo E4400",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 4400",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T9400",
+        "rating": "31st"
+    },
+    {
+        "name": "Athlon 64 3200+",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo T5750",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-2125",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-3220T",
+        "rating": "31st"
+    },
+    {
+        "name": "Core2 Duo E7200",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-9920X",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-9940X",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i7-13700",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-13900F",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i3-13100",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-13400",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i5-13600",
+        "rating": "31st"
+    },
+    {
+        "name": "Core i9-13900",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G5400T",
+        "rating": "31st"
+    },
+    {
+        "name": "Celeron G5920",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G3470",
+        "rating": "31st"
+    },
+    {
+        "name": "Xeon E3-1276 v3",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G3440",
+        "rating": "31st"
+    },
+    {
+        "name": "Pentium G3430",
+        "rating": "31st"
+    },
+    {
+        "name": "A4-1200 APU",
+        "rating": "1st"
+    },
+    {
+        "name": "Pentium M processor 1.60GHz",
+        "rating": "1st"
+    },
+    {
+        "name": "Atom Z520",
+        "rating": "1st"
+    },
+    {
+        "name": "Pentium D 2.66GHz",
+        "rating": "1st"
+    },
+    {
+        "name": "E1-7010 APU (2015 M.Ca)",
+        "rating": "1st"
+    },
+    {
+        "name": "Core i5-8600T",
+        "rating": "1st"
+    },
+    {
+        "name": "Pentium 4 2.66GHz",
+        "rating": "1st"
+    },
+    {
+        "name": "Celeron 2.80GHz",
+        "rating": "1st"
+    },
+    {
+        "name": "Ryzen 9 7900X3D",
+        "rating": "1st"
+    },
+    {
+        "name": "Core i3-4340",
+        "rating": "1st"
+    }
+]

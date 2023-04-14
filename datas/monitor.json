@@ -1,0 +1,1612 @@
+[
+    {
+        "name": "Samsung Odyssey OLED G8/G85SB S34BG85",
+        "size": "34\"",
+        "maxRefresh": "175 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "9.0"
+    },
+    {
+        "name": "LG 27GR95QE-B",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "9.0"
+    },
+    {
+        "name": "Dell Alienware AW3423DWF",
+        "size": "34\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "9.0"
+    },
+    {
+        "name": "LG 48GQ900-B",
+        "size": "48\"",
+        "maxRefresh": "138 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "9.0"
+    },
+    {
+        "name": "ASUS ROG Swift OLED PG42UQ",
+        "size": "42\"",
+        "maxRefresh": "138 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "9.0"
+    },
+    {
+        "name": "Gigabyte AORUS FO48U OLED",
+        "size": "48\"",
+        "maxRefresh": "120 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "9.0"
+    },
+    {
+        "name": "Samsung Odyssey Neo G8 S32BG85",
+        "size": "32\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "9.0"
+    },
+    {
+        "name": "LG 42 C2 OLED",
+        "size": "42\"",
+        "maxRefresh": "120 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.9"
+    },
+    {
+        "name": "LG 48 C1 OLED",
+        "size": "48\"",
+        "maxRefresh": "120 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.9"
+    },
+    {
+        "name": "Cooler Master Tempest GP27U",
+        "size": "27\"",
+        "maxRefresh": "160 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.8"
+    },
+    {
+        "name": "Samsung Odyssey Neo G9",
+        "size": "49\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "5120x1440",
+        "rating": "8.8"
+    },
+    {
+        "name": "LG 32GQ950-B",
+        "size": "32\"",
+        "maxRefresh": "160 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.8"
+    },
+    {
+        "name": "Samsung Odyssey Neo G7 S32BG75",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.8"
+    },
+    {
+        "name": "Dell Alienware AW3423DW",
+        "size": "34\"",
+        "maxRefresh": "175 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.7"
+    },
+    {
+        "name": "Sony 42 A90K OLED",
+        "size": "42\"",
+        "maxRefresh": "120 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.7"
+    },
+    {
+        "name": "Dell G3223Q",
+        "size": "32\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.7"
+    },
+    {
+        "name": "LG 27GP950-B",
+        "size": "27\"",
+        "maxRefresh": "160 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.7"
+    },
+    {
+        "name": "Acer Predator XB273U GXbmiipruzx",
+        "size": "27\"",
+        "maxRefresh": "270 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.7"
+    },
+    {
+        "name": "Gigabyte M32UC",
+        "size": "32\"",
+        "maxRefresh": "160 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.7"
+    },
+    {
+        "name": "LG 48 CX OLED",
+        "size": "48\"",
+        "maxRefresh": "120 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.7"
+    },
+    {
+        "name": "Dell Alienware AW2723DF",
+        "size": "27\"",
+        "maxRefresh": "280 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.6"
+    },
+    {
+        "name": "ASUS ROG Swift 360Hz PG27AQN",
+        "size": "27\"",
+        "maxRefresh": "360 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.6"
+    },
+    {
+        "name": "Sony INZONE M9",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.6"
+    },
+    {
+        "name": "Samsung Odyssey G7 C32G75T",
+        "size": "32\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.6"
+    },
+    {
+        "name": "Gigabyte M28U",
+        "size": "28\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.6"
+    },
+    {
+        "name": "Acer Nitro XV282K KVbmiipruzx",
+        "size": "28\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.6"
+    },
+    {
+        "name": "Gigabyte M27Q X",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.6"
+    },
+    {
+        "name": "Samsung Odyssey G7 S28AG70",
+        "size": "28\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.6"
+    },
+    {
+        "name": "Samsung Odyssey G7/G70B S32BG70",
+        "size": "32\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.6"
+    },
+    {
+        "name": "Gigabyte M32U",
+        "size": "32\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.6"
+    },
+    {
+        "name": "Gigabyte AORUS FI27Q-X",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.6"
+    },
+    {
+        "name": "ASUS ROG Strix XG27UQ",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.6"
+    },
+    {
+        "name": "Corsair XENEON 32QHD165",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.6"
+    },
+    {
+        "name": "MSI Oculux NXG253R",
+        "size": "25\"",
+        "maxRefresh": "360 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.6"
+    },
+    {
+        "name": "Acer Predator X25 bmiiprzx",
+        "size": "25\"",
+        "maxRefresh": "360 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.6"
+    },
+    {
+        "name": "Acer Nitro XV273 Xbmiiprzx",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.6"
+    },
+    {
+        "name": "ASUS ROG Swift PG279Q",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.6"
+    },
+    {
+        "name": "LG 32GP850-B",
+        "size": "32\"",
+        "maxRefresh": "180 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.5"
+    },
+    {
+        "name": "LG 38GN950-B",
+        "size": "38\"",
+        "maxRefresh": "160 Hz",
+        "resolution": "3840 x 1600",
+        "rating": "8.5"
+    },
+    {
+        "name": "Gigabyte AORUS FV43U",
+        "size": "43\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.5"
+    },
+    {
+        "name": "LG 34GN850-B",
+        "size": "34\"",
+        "maxRefresh": "160 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.5"
+    },
+    {
+        "name": "LG 34GP83A-B",
+        "size": "34\"",
+        "maxRefresh": "160 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.5"
+    },
+    {
+        "name": "BenQ ZOWIE XL2546K",
+        "size": "25\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.5"
+    },
+    {
+        "name": "Gigabyte AORUS FI32U",
+        "size": "32\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.5"
+    },
+    {
+        "name": "LG 27GN950-B",
+        "size": "27\"",
+        "maxRefresh": "160 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.5"
+    },
+    {
+        "name": "Gigabyte M32Q",
+        "size": "32\"",
+        "maxRefresh": "170 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.5"
+    },
+    {
+        "name": "LG 27GP850-B/27GP83B-B",
+        "size": "27\"",
+        "maxRefresh": "180 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.5"
+    },
+    {
+        "name": "Acer Nitro XV272U KVbmiiprzx",
+        "size": "27\"",
+        "maxRefresh": "170 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.5"
+    },
+    {
+        "name": "ASUS ROG Strix XG279Q",
+        "size": "27\"",
+        "maxRefresh": "170 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.5"
+    },
+    {
+        "name": "ASUS TUF Gaming VG258QM",
+        "size": "25\"",
+        "maxRefresh": "280 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.5"
+    },
+    {
+        "name": "ViewSonic Elite XG270",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.5"
+    },
+    {
+        "name": "ASUS ROG Swift PG279QZ",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.5"
+    },
+    {
+        "name": "Dell S2417DG",
+        "size": "24\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.5"
+    },
+    {
+        "name": "Samsung Odyssey G5 S27AG50",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "Gigabyte M27Q",
+        "size": "27\"",
+        "maxRefresh": "170 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "ASUS ROG Swift PG279QM",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "Samsung Odyssey G6 S32BG65",
+        "size": "32\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "LG 27GP83B-B",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "LG 38WN95C-W",
+        "size": "38\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 1600",
+        "rating": "8.4"
+    },
+    {
+        "name": "Dell Alienware AW2523HF",
+        "size": "25\"",
+        "maxRefresh": "360 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.4"
+    },
+    {
+        "name": "LG 27GN800-B",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "ViewSonic XG2431",
+        "size": "24\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.4"
+    },
+    {
+        "name": "ASUS ROG Strix XG27AQ",
+        "size": "27\"",
+        "maxRefresh": "170 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "MSI Optix MAG274QRF-QD",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "Acer Nitro XV340CK Pbmiipphzx",
+        "size": "34\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "ASUS VG248QG",
+        "size": "24\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.4"
+    },
+    {
+        "name": "Razer Raptor 27 165Hz",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "Gigabyte AORUS FI27Q",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "LG 27GN880-B",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "Lenovo Legion Y27q-20",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.4"
+    },
+    {
+        "name": "LG 38GL950G-B",
+        "size": "38\"",
+        "maxRefresh": "175 Hz",
+        "resolution": "3840 x 1600",
+        "rating": "8.4"
+    },
+    {
+        "name": "LG 34GP950G-B",
+        "size": "34\"",
+        "maxRefresh": "180 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "LG 27GN750-B",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.3"
+    },
+    {
+        "name": "LG 27GN850-B/27GN880-B",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "HP OMEN 27c",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "Samsung Odyssey G9",
+        "size": "49\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "5120x1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "LG 27GL83A-B",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "Dell S2716DG",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "Dell Alienware AW2721D",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "Dell Alienware AW2521H",
+        "size": "25\"",
+        "maxRefresh": "360 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.3"
+    },
+    {
+        "name": "Acer Nitro XV252Q Fbmiiprx",
+        "size": "25\"",
+        "maxRefresh": "390 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.3"
+    },
+    {
+        "name": "Razer Raptor 27 144Hz",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "Gigabyte M34WQ",
+        "size": "34\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "HP OMEN X 27",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "BenQ ZOWIE XL2540",
+        "size": "25\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.3"
+    },
+    {
+        "name": "LG 32GK850G-B",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.3"
+    },
+    {
+        "name": "ASUS ROG Swift 360Hz PG259QN",
+        "size": "25\"",
+        "maxRefresh": "360 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.2"
+    },
+    {
+        "name": "Sony INZONE M3",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.2"
+    },
+    {
+        "name": "Samsung 43 QN90B QLED",
+        "size": "43\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.2"
+    },
+    {
+        "name": "LG 27GN650-B",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.2"
+    },
+    {
+        "name": "ASUS TUF Gaming VG27AQL1A",
+        "size": "27\"",
+        "maxRefresh": "170 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "Gigabyte G27QC",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "Dell Alienware AW2720HF",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.2"
+    },
+    {
+        "name": "LG 27GL850-B/27GL83A-B",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "MSI Optix G273QF",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "MSI Optix MAG271CQR",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "Dell S3422DWG",
+        "size": "34\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "ASUS TUF VG32VQ",
+        "size": "32\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "Acer Predator XB273K Pbmiphzx",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.2"
+    },
+    {
+        "name": "Pixio PX7 Prime",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "HP X24ih",
+        "size": "24\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.2"
+    },
+    {
+        "name": "Gigabyte AORUS AD27QD",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "Samsung CHG70",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "LG 34GK950F-B",
+        "size": "34\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "Acer Predator XB271HU Bmiprz",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.2"
+    },
+    {
+        "name": "Acer Nitro XF252Q Xbmiiprzx",
+        "size": "25\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.2"
+    },
+    {
+        "name": "Acer Nitro XF243Y Pbmiiprx",
+        "size": "24\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.1"
+    },
+    {
+        "name": "Dell S2721DGF",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.1"
+    },
+    {
+        "name": "AOC CQ27G1",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.1"
+    },
+    {
+        "name": "ASUS TUF Gaming VG259QM",
+        "size": "25\"",
+        "maxRefresh": "280 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.1"
+    },
+    {
+        "name": "ASUS VG279QM",
+        "size": "27\"",
+        "maxRefresh": "280 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.1"
+    },
+    {
+        "name": "Dell S2721HGF",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.1"
+    },
+    {
+        "name": "Acer Predator X27 bmiphzx",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "8.1"
+    },
+    {
+        "name": "ViewSonic XG2402",
+        "size": "24\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.1"
+    },
+    {
+        "name": "LG 32GK650F-B",
+        "size": "32\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.1"
+    },
+    {
+        "name": "Dell S2719DGF",
+        "size": "27\"",
+        "maxRefresh": "155 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.1"
+    },
+    {
+        "name": "ASUS TUF VG27AQ",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.0"
+    },
+    {
+        "name": "Gigabyte G34WQC",
+        "size": "34\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.0"
+    },
+    {
+        "name": "ASUS ROG Strix XG16AHPE",
+        "size": "16\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.0"
+    },
+    {
+        "name": "MSI Optix G272",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.0"
+    },
+    {
+        "name": "Dell Alienware AW3821DW",
+        "size": "38\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3840 x 1600",
+        "rating": "8.0"
+    },
+    {
+        "name": "Dell Alienware AW2521HF",
+        "size": "25\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.0"
+    },
+    {
+        "name": "Dell S3220DGF",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.0"
+    },
+    {
+        "name": "BenQ ZOWIE XL2566K",
+        "size": "25\"",
+        "maxRefresh": "360 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.0"
+    },
+    {
+        "name": "Gigabyte G27Q",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.0"
+    },
+    {
+        "name": "LG 32GN650-B/32GN63T-B",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.0"
+    },
+    {
+        "name": "ASUS ROG Strix XG17AHPE",
+        "size": "17\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.0"
+    },
+    {
+        "name": "BenQ EX2780Q",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.0"
+    },
+    {
+        "name": "Acer Nitro RG241Y Pbiipx",
+        "size": "24\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.0"
+    },
+    {
+        "name": "ViewSonic VX2758-2KP-MHD",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "8.0"
+    },
+    {
+        "name": "MSI Optix MAG273R",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "8.0"
+    },
+    {
+        "name": "Dell Alienware AW3420DW",
+        "size": "34\"",
+        "maxRefresh": "120 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "8.0"
+    },
+    {
+        "name": "LG 32GN600-B",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.9"
+    },
+    {
+        "name": "ASUS TUF Gaming VG249Q1A",
+        "size": "24\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.9"
+    },
+    {
+        "name": "HP X27q",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.9"
+    },
+    {
+        "name": "LG 32GN50T-B",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.9"
+    },
+    {
+        "name": "MSI Optix G27C4",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.9"
+    },
+    {
+        "name": "ASUS TUF Gaming VG34VQL1B",
+        "size": "34\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "7.9"
+    },
+    {
+        "name": "ASUS TUF Gaming VG27WQ1B",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.9"
+    },
+    {
+        "name": "Acer Nitro VG271 Pbmiipx",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.9"
+    },
+    {
+        "name": "MSI Optix G27CQ4",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.9"
+    },
+    {
+        "name": "LG 27UK650-W",
+        "size": "27\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.9"
+    },
+    {
+        "name": "ASUS VG248QE",
+        "size": "24\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.9"
+    },
+    {
+        "name": "ASUS TUF VG27VQ",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.9"
+    },
+    {
+        "name": "HP OMEN 27i",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.8"
+    },
+    {
+        "name": "Gigabyte G32QC",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.8"
+    },
+    {
+        "name": "Samsung Odyssey G4/G40B S27BG40",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.8"
+    },
+    {
+        "name": "Samsung Odyssey G5 C34G55T",
+        "size": "34\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "7.8"
+    },
+    {
+        "name": "Acer Nitro VG271UP Pbmiipx",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.8"
+    },
+    {
+        "name": "MSI Optix G27C5",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.8"
+    },
+    {
+        "name": "Dell S2419HGF",
+        "size": "24\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.8"
+    },
+    {
+        "name": "ASUS VG245H",
+        "size": "24\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.8"
+    },
+    {
+        "name": "Dell S3222DGM",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.7"
+    },
+    {
+        "name": "ViewSonic Elite XG270QG",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.7"
+    },
+    {
+        "name": "Dell Alienware AW3418DW",
+        "size": "34\"",
+        "maxRefresh": "120 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "7.7"
+    },
+    {
+        "name": "BenQ ZOWIE XL2411P",
+        "size": "24\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.7"
+    },
+    {
+        "name": "Nixeus EDG 34",
+        "size": "34\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "7.7"
+    },
+    {
+        "name": "LG 32UD99-W",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.7"
+    },
+    {
+        "name": "Samsung C49RG9/CRG9",
+        "size": "49\"",
+        "maxRefresh": "120 Hz",
+        "resolution": "5120x1440",
+        "rating": "7.6"
+    },
+    {
+        "name": "LG 27GL650F-B",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.6"
+    },
+    {
+        "name": "Dell S2722DGM",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.6"
+    },
+    {
+        "name": "Samsung Odyssey G3 S24AG30",
+        "size": "24\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.6"
+    },
+    {
+        "name": "LG 32GN63T-B",
+        "size": "32\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.6"
+    },
+    {
+        "name": "Dell G2722HS",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.6"
+    },
+    {
+        "name": "AOC 24G2",
+        "size": "24\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.6"
+    },
+    {
+        "name": "MSI Optix G27C6",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.6"
+    },
+    {
+        "name": "BenQ EW3270U",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.6"
+    },
+    {
+        "name": "AOC CQ32G1",
+        "size": "32\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.6"
+    },
+    {
+        "name": "AOC CU34G2X",
+        "size": "34\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "7.5"
+    },
+    {
+        "name": "AOC CQ27G2",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.5"
+    },
+    {
+        "name": "LG 24GL600F",
+        "size": "24\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.5"
+    },
+    {
+        "name": "Dell UltraSharp U2520D",
+        "size": "25\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.5"
+    },
+    {
+        "name": "Dell S2721D",
+        "size": "27\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.5"
+    },
+    {
+        "name": "Dell U2718Q",
+        "size": "27\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.5"
+    },
+    {
+        "name": "Samsung U32J590",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.4"
+    },
+    {
+        "name": "LG 35WN65C-B",
+        "size": "35\"",
+        "maxRefresh": "100 Hz",
+        "resolution": "3440 x 1440",
+        "rating": "7.4"
+    },
+    {
+        "name": "Dell UltraSharp U2721DE",
+        "size": "27\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.4"
+    },
+    {
+        "name": "MSI Optix G273",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.4"
+    },
+    {
+        "name": "LG 49WL95C-W",
+        "size": "49\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "5120x1440",
+        "rating": "7.4"
+    },
+    {
+        "name": "Samsung JG50",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.4"
+    },
+    {
+        "name": "Dell UltraSharp U4021QW",
+        "size": "40\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "5120 x 2160",
+        "rating": "7.4"
+    },
+    {
+        "name": "LG 32UL950-W",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.4"
+    },
+    {
+        "name": "Philips Momentum 436M6VBPAB",
+        "size": "43\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.4"
+    },
+    {
+        "name": "Samsung Odyssey G5 C27G55T",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.3"
+    },
+    {
+        "name": "HP 27F",
+        "size": "27\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.3"
+    },
+    {
+        "name": "Lenovo D27-30",
+        "size": "27\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.3"
+    },
+    {
+        "name": "Dell S2421H",
+        "size": "24\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.3"
+    },
+    {
+        "name": "BenQ EL2870U",
+        "size": "28\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.3"
+    },
+    {
+        "name": "Dell U3219Q",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.3"
+    },
+    {
+        "name": "Dell U2518D",
+        "size": "25\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.3"
+    },
+    {
+        "name": "Samsung Odyssey G5/G55A S27AG55",
+        "size": "27\"",
+        "maxRefresh": "165 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.2"
+    },
+    {
+        "name": "ASUS VG279Q",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.2"
+    },
+    {
+        "name": "LG 40WP95C-W",
+        "size": "40\"",
+        "maxRefresh": "72 Hz",
+        "resolution": "5120 x 2160",
+        "rating": "7.2"
+    },
+    {
+        "name": "Samsung UE590",
+        "size": "28\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.2"
+    },
+    {
+        "name": "Dell S2721QS",
+        "size": "27\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.1"
+    },
+    {
+        "name": "Dell S2722QC",
+        "size": "27\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.1"
+    },
+    {
+        "name": "LG 32UL500-W",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.1"
+    },
+    {
+        "name": "Lenovo Q27q-10",
+        "size": "27\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "7.1"
+    },
+    {
+        "name": "Samsung T55",
+        "size": "32\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "7.1"
+    },
+    {
+        "name": "Samsung Smart Monitor M8 S32BM80",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "7.0"
+    },
+    {
+        "name": "Samsung C27RG5",
+        "size": "27\"",
+        "maxRefresh": "240 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.9"
+    },
+    {
+        "name": "Samsung Smart Monitor M7 S43BM70",
+        "size": "43\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "6.9"
+    },
+    {
+        "name": "Dell S3221QS",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "6.9"
+    },
+    {
+        "name": "LG 32QN55T-B",
+        "size": "32\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "6.9"
+    },
+    {
+        "name": "ASUS ProArt Display PA278CV",
+        "size": "27\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "6.9"
+    },
+    {
+        "name": "ASUS MX279HS",
+        "size": "27\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.8"
+    },
+    {
+        "name": "Dell U3818DW",
+        "size": "38\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 1600",
+        "rating": "6.8"
+    },
+    {
+        "name": "ASUS ProArt PA148CTV",
+        "size": "14\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.7"
+    },
+    {
+        "name": "Dell U3223QE",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "6.7"
+    },
+    {
+        "name": "Dell U2723QE",
+        "size": "27\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "6.7"
+    },
+    {
+        "name": "Dell UltraSharp U2720Q",
+        "size": "27\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "3840 x 2160",
+        "rating": "6.7"
+    },
+    {
+        "name": "ASUS ProArt Display PA278QV",
+        "size": "27\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "6.7"
+    },
+    {
+        "name": "Samsung Odyssey G3 F27G35T",
+        "size": "27\"",
+        "maxRefresh": "144 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.6"
+    },
+    {
+        "name": "ASUS ZenScreen Touch MB16AMT",
+        "size": "15\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.5"
+    },
+    {
+        "name": "ASUS ZenScreen Go MB16AHP",
+        "size": "15\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.5"
+    },
+    {
+        "name": "Dell E2220H",
+        "size": "22\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.5"
+    },
+    {
+        "name": "ASUS VG246H",
+        "size": "24\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.3"
+    },
+    {
+        "name": "LG 27MN60T-W",
+        "size": "27\"",
+        "maxRefresh": "75 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.3"
+    },
+    {
+        "name": "Dell C1422H",
+        "size": "14\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.2"
+    },
+    {
+        "name": "ASUS ZenScreen MB14AC",
+        "size": "14\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.2"
+    },
+    {
+        "name": "Apple Studio Display",
+        "size": "27\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "5120 x 2880",
+        "rating": "6.1"
+    },
+    {
+        "name": "Dell P3223DE",
+        "size": "32\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "2560 x 1440",
+        "rating": "6.1"
+    },
+    {
+        "name": "ViewSonic VG1655",
+        "size": "15\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.1"
+    },
+    {
+        "name": "Lenovo ThinkVision M14",
+        "size": "14\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "6.1"
+    },
+    {
+        "name": "Mobile Pixels DUEX Plus",
+        "size": "13\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "5.8"
+    },
+    {
+        "name": "Lepow Z1",
+        "size": "15\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "5.7"
+    },
+    {
+        "name": "Mobile Pixels TRIO",
+        "size": "13\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "5.6"
+    },
+    {
+        "name": "MSI Optix MAG161V",
+        "size": "15\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "5.6"
+    },
+    {
+        "name": "Lepow Z1 Gamut",
+        "size": "15\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "5.3"
+    },
+    {
+        "name": "espresso Display 15 Touch",
+        "size": "15\"",
+        "maxRefresh": "60 Hz",
+        "resolution": "1920 x 1080",
+        "rating": "5.1"
+    }
+]

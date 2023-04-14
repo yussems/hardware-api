@@ -1,0 +1,462 @@
+[
+    {
+        "name": "Vengeance LPX DDR4 3000 C15 2x8GB",
+        "rating": "100th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3200 C16 2x8GB",
+        "rating": "100th"
+    },
+    {
+        "name": "Trident Z DDR4 3200 C14 4x16GB",
+        "rating": "97th"
+    },
+    {
+        "name": "Ripjaws V DDR4 3200 C16 2x8GB",
+        "rating": "97th"
+    },
+    {
+        "name": "Fury DDR4 2133 C14 2x8GB",
+        "rating": "96th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2666 C16 2x8GB",
+        "rating": "96th"
+    },
+    {
+        "name": "Trident Z DDR4 3600 C16 2x8GB",
+        "rating": "96th"
+    },
+    {
+        "name": "Trident Z RGB DDR4 3200 C16 2x8GB",
+        "rating": "96th"
+    },
+    {
+        "name": "Ripjaws 4 DDR4 2400 C14 8x16GB",
+        "rating": "92nd"
+    },
+    {
+        "name": "Trident Z DDR4 3200 C16 2x8GB",
+        "rating": "92nd"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2133 C13 2x8GB",
+        "rating": "92nd"
+    },
+    {
+        "name": "Vengeance RGB PRO DDR4 3200 C15 2x8GB",
+        "rating": "92nd"
+    },
+    {
+        "name": "Fury DDR4 2400 C15 2x8GB",
+        "rating": "89th"
+    },
+    {
+        "name": "Dominator DDR4 3000 C15 4x16GB",
+        "rating": "89th"
+    },
+    {
+        "name": "Ripjaws 4 DDR4 3000 C15 4x4GB",
+        "rating": "89th"
+    },
+    {
+        "name": "Ballistix Sport DDR4 2400 C16 4x4GB",
+        "rating": "89th"
+    },
+    {
+        "name": "Ballistix Sport LT DDR4 2400 C16 2x8GB",
+        "rating": "89th"
+    },
+    {
+        "name": "Flare X DDR4 3200 C14 2x8GB",
+        "rating": "89th"
+    },
+    {
+        "name": "Trident Z DDR4 3600 C17 2x8GB",
+        "rating": "89th"
+    },
+    {
+        "name": "Fury DDR3 1866 C10 2x4GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Fury DDR4 2666 C15 2x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Fury DDR4 2666 C15 4x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Ballistix Sport DDR4 2400 C16 2x4GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Dominator DDR4 3000 C15 2x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Fury DDR4 2133 C14 2x4GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C14 4x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Fury DDR4 2400 C15 4x4GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Trident Z DDR4 3000 C15 2x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Trident Z DDR4 3200 C15 4x16GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Ripjaws V DDR4 2133 C15 2x16GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Ripjaws V DDR4 3200 C16 4x16GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Ripjaws V DDR4 2400 C15 2x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Ripjaws 4 DDR4 2400 C15 2x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Ballistix Sport LT DDR4 2400 C16 4x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C16 1x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Ripjaws V DDR4 2133 C15 2x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2666 C16 4x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Trident Z RGB DDR4 3000 C16 2x8GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Vengeance RGB PRO DDR4 3200 C16 2x16GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3200 C16 2x16GB",
+        "rating": "83rd"
+    },
+    {
+        "name": "Fury DDR3 1600 C10 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Fury DDR3 1600 C10 2x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Fury DDR3 1866 C10 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Savage DDR3 1600 C9 2x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Ballistix Sport DDR4 2400 C16 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Ballistix Sport DDR3 1600 C9 2x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance DDR3 1600 C9 2x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "TridentX DDR3 2400 C10 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2800 C16 4x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Ripjaws 4 DDR4 2800 C16 4x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3000 C15 2x16GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Trident Z DDR4 3600 C17 2x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LED DDR4 3200 C16 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance RGB DDR4 3000 C15 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Fury 2666 C16 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Ballistix Elite DDR4 3600 C16 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3000 C15 2x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Fury DDR4 2666 C15 2x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Fury DDR4 2133 C14 4x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C14 4x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LED DDR4 3000 C15 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance RGB DDR4 3200 C16 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Ripjaws V DDR4 2400 C15 4x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Flare X DDR4 3200 C14 4x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance RGB DDR4 3600 C18 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Ballistix Sport LT DDR4 2666 C16 1x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Fury DDR4 2133 C14 1x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Ripjaws V DDR4 2400 C15 2x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3600 C18 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Predator 2666 C13 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2666 C16 4x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3000 C15 4x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3600 C18 2x16GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Ripjaws V DDR4 2133 C15 2x4GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C14 2x8GB",
+        "rating": "64th"
+    },
+    {
+        "name": "Savage DDR3 2400 C11 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance DDR3 1600 C10 1x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "RipjawsX DDR3 1866 C10 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "RipjawsX DDR3 1600 C9 2x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "RipjawsX DDR3 1600 C10 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "TridentX DDR3 2400 C10 4x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2666 C15 4x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "RipjawsX DDR3 1600 C10 1x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance Pro DDR3 2400 C11 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "XMS3 DDR3 1600 C9 2x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "RipjawsX DDR3 1600 C10 4x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Ripjaws DDR3 1600 C9 1x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Ballistix Sport DDR4 2400 C16 8x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance DDR3 1600 C9 8x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance RGB DDR4 2666 C16 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance RGB DDR4 3466 C16 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Ballistix Elite DDR4 3600 C16 4x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance RGB DDR4 3000 C16 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C16 4x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LED DDR4 2666 C16 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance RGB DDR4 3000 C15 2x16GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C16 4x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Value DDR4 2133 C15 1x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C14 2x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2666 C16 2x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Ballistix Sport LT DDR4 2400 C16 1x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3000 C16 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LED DDR4 2400 C16 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "UDIMM DDR4 2400 C17 1x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "UDIMM DDR4 2400 C16 1x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "UDIMM DDR4 2400 C16 1x16GB",
+        "rating": "34th"
+    },
+    {
+        "name": "ValueSelect DDR4 2133 C15 1x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C14 1x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C14 1x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C16 2x4GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C16 2x8GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2400 C16 2x16GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 2666 C16 2x16GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3200 C16 2x16GB",
+        "rating": "34th"
+    },
+    {
+        "name": "Vengeance LPX DDR4 3200 C16 2x8GB",
+        "rating": "34th"
+    }
+]
